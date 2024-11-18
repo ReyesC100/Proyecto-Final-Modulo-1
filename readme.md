@@ -2,7 +2,7 @@
 Este es el proyecto final del modulo 1 para el curso de Frontend Becalos, en el cual se creo
 una pagina web basica utilizando HTML, Git y GitHub. El tema de la pagina web es sobre "Curiosidades del mundo animal"
 ## Estructura del proyecto
-1. Index. html: Codigo de la pagina web principal sobre el tema de curiosidades el mundo animal.
+1. Index. html: Codigo de la pagina web principal sobre el tema de curiosidades del mundo animal.
 2. imagenes: Carpeta que contiene las imagenes usadas para la pagina web en cuestion.
 3. Readme: Archivo de presentación del proyecto, caracteristicas y despliegue.
 ## Instalación
